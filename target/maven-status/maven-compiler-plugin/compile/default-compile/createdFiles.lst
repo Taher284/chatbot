@@ -1,0 +1,5 @@
+com\example\chatbot\model\ChatMessage.class
+com\example\chatbot\VaadinChatbotApplication.class
+com\example\chatbot\repository\ChatMessageRepository.class
+com\example\chatbot\service\ChatBotService.class
+com\example\chatbot\ChatView.class
