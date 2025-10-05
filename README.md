@@ -7,7 +7,7 @@ A real-time chatbot application built with Vaadin and Spring Boot, connected to 
 - User-friendly Vaadin UI
 - MySQL database integration
 - Built with Java + Spring Boot
-adfasd
+  
 ## Requirements
 - Java 17+
 - Maven
